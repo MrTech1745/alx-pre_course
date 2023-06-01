@@ -1,1 +1,1 @@
-My first readme
+My first time knowing about README.md
